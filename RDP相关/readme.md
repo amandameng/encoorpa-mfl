@@ -1,0 +1,1 @@
+### 如果RDP不是fully supported，尝试用rdp-replace-ini里面的文件将RDPwrapper安装目录的配置文件（rdpwrap.ini）替换掉
